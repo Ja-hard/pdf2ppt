@@ -1,6 +1,9 @@
 # Copyright (c) 2020 Kevin McGuinness <kevin.mcguinness@gmail.com>
 import fitz
 import io
+import PIL.Image
+
+PIL.Image.MAX_IMAGE_PIXELS = None
 
 from tqdm import trange
 from pptx import Presentation

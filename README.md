@@ -1,3 +1,12 @@
+# Rev
+## Upstream
+https://github.com/kevinmcguinness/pdf2pptx
+
+## Feature List
+- [x] support input directory
+- [x] disable max image size limit 
+- [ ] feat: img2pptx
+
 # pdf2pptx
 
 **Utility to convert a PDF slideshow to Powerpoint PPTX.**
